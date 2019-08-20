@@ -1,5 +1,5 @@
 {
-    "name": "Amethyst/group",
+    "name": "amethyst/group",
     "type": "library",
     "keywords": ["laravel", "amethyst", "group"],
     "license": "MIT",
