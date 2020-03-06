@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'table'      => 'amethyst_groups',
+    'table'      => 'group',
     'comment'    => 'Group',
     'model'      => Amethyst\Models\Group::class,
     'schema'     => Amethyst\Schemas\GroupSchema::class,
