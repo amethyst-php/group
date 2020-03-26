@@ -9,7 +9,7 @@ use Railken\Lem\Faker;
 class GroupFaker extends Faker
 {
     /**
-     * @return \Railken\Bag
+     * @return \Railken\Bag<mixed>
      */
     public function parameters()
     {

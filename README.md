@@ -1,6 +1,6 @@
 # amethyst-group
 
-[![Action Status](https://github.com/amethyst-php/group/workflows/test/badge.svg)](https://github.com/amethyst-php/group/actions)
+[![Action Status](https://github.com/amethyst-php/group/workflows/Test/badge.svg)](https://github.com/amethyst-php/group/actions)
 
 [Amethyst](https://github.com/amethyst-php) package.
 

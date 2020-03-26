@@ -10,7 +10,7 @@ class GroupSchema extends Schema
     /**
      * Get all the attributes.
      *
-     * @var array
+     * @return array<Attributes\BaseAttribute>
      */
     public function getAttributes()
     {
