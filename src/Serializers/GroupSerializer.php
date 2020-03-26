@@ -11,8 +11,8 @@ class GroupSerializer extends Serializer
     /**
      * Serialize entity.
      *
-     * @param \Railken\Lem\Contracts\EntityContract $entity
-     * @param \Illuminate\Support\Collection<string>        $select
+     * @param \Railken\Lem\Contracts\EntityContract  $entity
+     * @param \Illuminate\Support\Collection<string> $select
      *
      * @return \Railken\Bag<mixed>
      */
